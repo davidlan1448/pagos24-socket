@@ -1,0 +1,17 @@
+{
+  "name": "pagos24/chat",
+  "description": "pagos24 support chat",
+  "type": "project",
+  "require": {
+    "workerman/workerman": "dev-master",
+    "workerman/phpsocket.io": "dev-master"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "David Ramirez",
+      "email": "david.ramirez1448@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
